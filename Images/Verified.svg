@@ -1,0 +1,9 @@
+<svg id="Register" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Register_login_details-Copy-3" transform="translate(-327 -261)">
+    <g id="input_currentPIN" transform="translate(16 247)">
+      <g id="check_circle-24px-_4_" data-name="check_circle-24px-(4)" transform="translate(311 14)">
+        <path id="Shape" d="M10,0A10,10,0,1,0,20,10,10,10,0,0,0,10,0ZM7.29,14.29,3.7,10.7A1,1,0,0,1,5.11,9.29L8,12.17l6.88-6.88A1,1,0,1,1,16.29,6.7L8.7,14.29A1,1,0,0,1,7.29,14.29Z" fill="#00c851"/>
+      </g>
+    </g>
+  </g>
+</svg>
